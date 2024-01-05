@@ -1,11 +1,13 @@
 Hi! My name is Daniele Susino
 Computer Engineering student
+
 Tech enthusiast since I was born
+
 * 🌍  I'm based in Palermo, Sicily, Italy*
-🖥️  See my portfolio at [My Site](http://rickroll.it)* 
-✉️  You can contact me at [susino.daniele@outlook.com](mailto:susino.daniele@outlook.com)* 
-🚀  I'm currently working on [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)*
-🧠  I'm learning Laravel, Tailwind, Figma, Flutter, Esphome, Home assistant, DIY
+* 🖥️  See my portfolio at [My Site](http://rickroll.it)* 
+* ✉️  You can contact me at [susino.daniele@outlook.com](mailto:susino.daniele@outlook.com)* 
+* 🚀  I'm currently working on [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)*
+* 🧠  I'm learning Laravel, Tailwind, Figma, Flutter, Esphome, Home assistant, DIY*
 
 ### Skills
 
