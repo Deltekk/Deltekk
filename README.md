@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniele Susino
+Daniele Susino
 ===============================
 
 Computer Engineering student
