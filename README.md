@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniele Susino======================================================================================================================================Computer Engineering student----------------------------Tech enthusiast since I was Born* 🌍  I'm based in Palermo, Sicily, Italy* 🖥️  See my portfolio at [My Site](http://rickroll.it)* ✉️  You can contact me at [susino.daniele@outlook.com](mailto:susino.daniele@outlook.com)* 🚀  I'm currently working on [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)* 🧠  I'm learning Laravel, Tailwind, Figma, Flutter, Esphome, Home assistant, DIY
+Hi 👋 My name is Daniele Susino
+===============================Computer Engineering student----------------------------Tech enthusiast since I was Born* 🌍  I'm based in Palermo, Sicily, Italy* 🖥️  See my portfolio at [My Site](http://rickroll.it)* ✉️  You can contact me at [susino.daniele@outlook.com](mailto:susino.daniele@outlook.com)* 🚀  I'm currently working on [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)* 🧠  I'm learning Laravel, Tailwind, Figma, Flutter, Esphome, Home assistant, DIY
 
 ### Skills
 
