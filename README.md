@@ -7,7 +7,7 @@ Computer Engineering student
 Tech enthusiast since I was Born
 
 * 🌍  I'm based in Palermo, Sicily, Italy
-* 🖥️  See my portfolio at [My Site](http://rickroll.it)
+* 🖥️  See my portfolio at [My Site](https://susino.dev)
 * ✉️  You can contact me at [susino.daniele@outlook.com](mailto:susino.daniele@outlook.com)
 * 🚀  I'm currently working on [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
 * 🧠  I'm learning Laravel, Tailwind, Figma, Flutter, Esphome, Home assistant, DIY
